@@ -1,3 +1,2 @@
-# task1
-task-1=index.html
-task-2=index1.html and script.js
+# task 1 and task 2
+#script.js is javascript file for task 2
